@@ -7,6 +7,13 @@
 <h1 align="center">Hi 👋, I'm Sameer Pathan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
+###
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sameerp10&color=blue)
+
+
+###
+
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **Python, SQL, Power BI, Machine Learning**
